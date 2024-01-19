@@ -4,7 +4,6 @@
 
 - 🔭 I’m currently working on a freelance project for a small business, creating a V2 of their current site using React and several third party APIs.
 - 🌱 I’m currently learning React Native
-- 💬 Ask me about my dog, Penny Pockets
 - 📫 How to reach me: email or LinkedIn
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: Cooking and baking helps me decompress after a day in front of my laptop
