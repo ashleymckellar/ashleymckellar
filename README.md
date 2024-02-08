@@ -3,7 +3,7 @@
 
 
 - 🔭 I’m currently working on the Work Optional Lifetime planner, a financial planning app
-- 🌱 I’m currently learning React Native, TypeScript, and how to use Firebase
+- 🌱 I’m currently learning React Native, TypeScript, and Firebase
 - 📫 How to reach me: email or LinkedIn
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: Cooking and baking helps me decompress after a day in front of my laptop
