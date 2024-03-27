@@ -8,7 +8,7 @@
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: Cooking and baking helps me decompress after a day in front of my laptop
 
-  View my portfolio here: https://ashleymckellar.github.io/
+  View my portfolio here: https://ashleymckellar.com
 
  ![Ashley's github stats](https://github-readme-stats.vercel.app/api?username=ashleymckellar&show_icons=true&theme=light)
 
