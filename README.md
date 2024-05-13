@@ -2,7 +2,8 @@
 
 
 
-- 🔭 I’m currently working on the Work Optional Lifetime planner, a financial planning app utilizing Typescript and Firebase
+- 🔭 I’m currently creating the backend for Sidhu Farms, an e-commerce site for a Seattle area business, utilizing the following stack: Node, Express server, API built with MongoDB, Square Payments API, and authentication using Google Auth0, as well as bcrypt authentication
+  
 - 🌱 I’m currently learning React Native, TypeScript, and Firebase
 - 📫 How to reach me: email or LinkedIn
 - 😄 Pronouns: she/her
