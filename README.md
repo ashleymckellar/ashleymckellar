@@ -2,7 +2,7 @@
 
 
 
-- 🔭 I’m currently working on the Array HR app, a project management tool for HR professionals
+- 🔭 I’m currently working on the Array HR app, a project management tool for HR professionals, utilizing the following stack: Nextjs, Typescript (React), Supabase, and TailwindCSS
   
 - 🌱 I’m currently learning NextJS, TypeScript, and Supabase
 - 📫 How to reach me: email or LinkedIn
