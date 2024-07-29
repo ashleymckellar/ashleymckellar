@@ -2,7 +2,7 @@
 
 
 
-- 🔭 I’m currently working on the Array HR app, a project management tool for HR professionals, utilizing the following stack: Nextjs, Typescript (React), Supabase, and TailwindCSS
+- 🔭 I’m currently working on a proof of concept for a mobile app for the Forever Twilight in Forks festival.  The planned stack: React Native, Google OAuth and JWT authentication, and Firebase Realtime Database.
   
 - 🌱 I’m currently learning NextJS, TypeScript, and Supabase
 - 📫 How to reach me: email or LinkedIn
