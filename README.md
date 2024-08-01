@@ -2,7 +2,7 @@
 
 
 
-- 🔭 I’m currently working on a proof of concept for a mobile app for the Forever Twilight in Forks festival.  The planned stack: React Native, Google OAuth and JWT authentication, and Firebase Realtime Database.
+- 🔭 I’m currently working on a proof of concept for a mobile app for the Forever Twilight in Forks festival.  The planned stack: React Native, Google OAuth and JWT authentication, and MongoDB/Express backend.
   
 - 🌱 I’m currently learning NextJS, TypeScript, and Supabase
 - 📫 How to reach me: email or LinkedIn
