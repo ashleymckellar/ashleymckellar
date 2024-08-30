@@ -2,9 +2,8 @@
 
 
 
-- 🔭 I’m currently working on a proof of concept for a mobile app for the Forever Twilight in Forks festival.  The planned stack: React Native, Google OAuth and JWT authentication, and MongoDB/Express backend.
+- 🔭 I’m currently working on a full stack application for my client, Braintrust Institute, utilizing the following stack: React, NodeJS, MongoDB, Auth0 authentication, and file management via Cloudinary (upload API and Node SDK)
   
-- 🌱 I’m currently learning NextJS, TypeScript, and Supabase
 - 📫 How to reach me: email or LinkedIn
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: Cooking and baking helps me decompress after a day in front of my laptop
