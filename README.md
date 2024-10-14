@@ -2,7 +2,7 @@
 
 
 
-- 🔭 I’m currently working on a full stack application for my client, Braintrust Institute, utilizing the following stack: React, NodeJS, MongoDB, Auth0 authentication, and file management via Cloudinary (upload API and Node SDK)
+- 🔭 I’m currently working on a full stack application for my client, Brain Integration Institute, utilizing the following stack: React, NodeJS, MongoDB, Auth0 authentication, and file management via Cloudinary (upload API and Node SDK)
   
 - 📫 How to reach me: email or LinkedIn
 - 😄 Pronouns: she/her
